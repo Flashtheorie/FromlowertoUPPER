@@ -51,12 +51,3 @@ export class AppComponent {
   
 }
 
-const firebaseConfig = {
-  apiKey: "AIzaSyA2jSXj7Y1jk6qg8fLWCGGkjdBRB88gzV4",
-  authDomain: "fromlowertoupper.firebaseapp.com",
-  projectId: "fromlowertoupper",
-  storageBucket: "fromlowertoupper.appspot.com",
-  messagingSenderId: "485461348528",
-  appId: "1:485461348528:web:2c030055c2984d874eab75"
-};
-const app = initializeApp(firebaseConfig);
