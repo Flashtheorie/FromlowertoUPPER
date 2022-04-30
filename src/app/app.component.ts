@@ -35,7 +35,7 @@ export class AppComponent {
 }
   lowertoupper(){
     this.output = this.input.toUpperCase()
-    this.input = '';
+    //this.input = '';
     this.inputRempli = false;
     this.outputRempli = true;
   }
@@ -43,7 +43,7 @@ export class AppComponent {
 
   uppertolower(){
     this.input = this.output.toLowerCase();
-    this.output = '';
+    //this.output = '';
     this.outputRempli = false;
     this.inputRempli = true;
   }
