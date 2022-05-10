@@ -7,4 +7,4 @@ Le tout est réalisé avec le framework Angular et TailwindCSS et est déployé 
 ![lowertoUPPER](https://i.imgur.com/VqcyFb8.png)
 
 
-[https://fromlowertoupper.web.app](https://fromlowertoupper.web.app)
+[https://fromlowertoupper.com](https://fromlowertoupper.com)
